@@ -24,6 +24,6 @@ Big Data Development Engineer / Full stack development engineer
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHENXCHEN&layout=compact&hide=html" alt="logo" height="160" align="right" width="50%" />
 
 ## Follow Me
-[![Blog](https://img.shields.io/badge/Blog（chchc.me）-c14438?style=flat-square&logo=Blog&logoColor=white)](https://chchc.me/)
+[![Blog](https://img.shields.io/badge/Blog-chchc.me-c14438?style=flat-square&logo=Blog&logoColor=white)](https://chchc.me/)
 [![Github](https://img.shields.io/github/followers/CHENXCHEN?label=Github&style=social)](https://github.com/CHENXCHEN)
 [![Email](https://img.shields.io/badge/gmail-chenhuachaoxyz@gmail.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chenhuachaoxyz@gmail.com)](mailto:chenhuachaoxyz@gmail.com)
