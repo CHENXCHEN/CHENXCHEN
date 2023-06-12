@@ -20,9 +20,9 @@ Big Data Development Engineer / Full stack development engineer
 - 🌱 I’m currently learning Spark / Flink / Iceberg / Some Algorithm...
 - 💬 Ask me about **Spark/Iceberg/Iceberg** technology
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHENXCHEN&layout=compact&hide=html" alt="logo" height="160" align="left" width="50%" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CHENXCHEN&show_icons=true&count_private=true&theme=vue&include_all_commits=true" alt="logo" height="160" align="right" width="50%" />
+<div style="display: inline-flex;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHENXCHEN&layout=compact&hide=html" alt="logo" height="160" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CHENXCHEN&show_icons=true&count_private=true&theme=vue&include_all_commits=true" alt="logo" height="160" />
 </div>
 
 ## Follow Me
