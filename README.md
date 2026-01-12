@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 Big Data Development Engineer / Full stack development engineer
 
 - 🔭 I’m currently working on Big Data Platform Development...
-- 🌱 I’m currently learning Spark / Flink / Iceberg / Some Algorithm...
+- 🌱 My Skills: Spark / Flink / Iceberg / Algorithm / Next.js...
 - 💬 Ask me about **Spark/Iceberg/Iceberg** technology
 
-<div style="display: inline-flex;">
+<!-- <div style="display: inline-flex;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHENXCHEN&layout=compact&hide=html" alt="logo" height="160" />
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CHENXCHEN&show_icons=true&count_private=true&theme=vue&include_all_commits=true" alt="logo" height="160" />
-</div>
+</div> -->
 
 ## Follow Me
 [![Blog](https://img.shields.io/badge/Blog-chchc.me-c14438?style=flat-square&logo=Blog&logoColor=white)](https://chchc.me/)
