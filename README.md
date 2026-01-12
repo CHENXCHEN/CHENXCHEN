@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 # Hi,I'm CHENXCHEN! 👋
 Big Data Development Engineer / Full stack development engineer
 
-- 🔭 I’m currently working on Big Data Platform Development...
+- 🔭 I’m currently working on Big Data Platform Development.
+- 🤔 I have a thirst for knowledge about the essence of things and enjoy delving into source code to study them.
 - 🌱 My Skills: Spark / Flink / Iceberg / Algorithm / Next.js...
-- 💬 Ask me about **Spark/Iceberg/Iceberg** technology
-- Spark Contributions: [SPARK-32432](https://github.com/apache/spark/pull/35734)、[SPARK-31675](https://github.com/apache/spark/pull/36070)、[SPARK-32838](https://issues.apache.org/jira/browse/SPARK-32838)
+- ⚡ Spark Research Contributing: [SPARK-32432](https://github.com/apache/spark/pull/35734)、[SPARK-31675](https://github.com/apache/spark/pull/36070)、[SPARK-32838](https://issues.apache.org/jira/browse/SPARK-32838)
 
 <!-- <div style="display: inline-flex;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHENXCHEN&layout=compact&hide=html" alt="logo" height="160" />
